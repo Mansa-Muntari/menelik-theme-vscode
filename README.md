@@ -9,7 +9,7 @@ Menelik was designed with simplicity in mind. The theme uses contrasting shades 
 ![c](https://user-images.githubusercontent.com/102671271/161059342-48af2ef1-ed55-4cf3-b526-8ef946146dd9.png?raw=true "C")
 ![html](https://user-images.githubusercontent.com/102671271/161059392-d8d2b6cd-61c7-41a8-a287-48a0dcf741ff.png?raw=true "HTML")
 ![js](https://user-images.githubusercontent.com/102671271/161059397-d89f2aae-9d46-462f-86af-7ffd092ad49d.png?raw=true "JS")
-![py](https://user-images.githubusercontent.com/102671271/161059388-49b5a067-0f75-4b45-88d8-c832b7832d2b.png? raw=true "Python")
+![py](https://user-images.githubusercontent.com/102671271/161059388-49b5a067-0f75-4b45-88d8-c832b7832d2b.png?raw=true "Python")
 
 
  
