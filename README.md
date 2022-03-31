@@ -1,5 +1,5 @@
 # Overview
-Menelik was designed with simplicity in mind. The theme uses contrasting shades of grey and minimal syntax colours to achieve a simple, clean visual appearance.
+Menelik Theme was designed with simplicity in mind. The theme uses contrasting shades of grey and minimal syntax colours to achieve a simple, clean visual appearance.
 
 The creation of this theme was powered by Mike Tromba's [**Theme Studio for VS Code.**](https://themes.vscode.one/)
 
