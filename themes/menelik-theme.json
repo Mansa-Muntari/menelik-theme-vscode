@@ -287,7 +287,7 @@
             "name": "Comments",
             "scope": "comment",
             "settings": {
-                "foreground": "#666666",
+                "foreground": "#737373",
                 "fontStyle": "italic"
             }
         },
