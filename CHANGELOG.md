@@ -1,7 +1,7 @@
 # Change Log
 
 ## [1.2.1]
-- Minor tweaks in token colours
+- Minor tweaks to token colours
 
 ## [1.2.0]
 - Switch to more complementary token colours
