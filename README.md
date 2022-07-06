@@ -3,7 +3,7 @@ Menelik was designed with simplicity in mind. The theme uses contrasting shades 
 
 
 
-![sample](https://user-images.githubusercontent.com/102671271/177562226-e4045593-4b90-47d4-a29a-fcf248f324fa.png?raw=true)
+![sample](https://user-images.githubusercontent.com/102671271/177570352-2b5ba409-5f18-4254-9ab4-533a0f7fc5c8.png?raw=true)
 
 
 
