@@ -2,7 +2,7 @@
     "name": "menelik-theme",
     "author": "Mansa Muntari",
     "publisher": "mansa-muntari",
-    "displayName": "Menelik Theme",
+    "displayName": "Menelik",
     "description": "A subtle, dark Visual Studio Code theme with minimal flair",
     "version": "1.2.0",
     "engines": {
