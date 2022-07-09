@@ -267,7 +267,9 @@
                 "punctuation.definition.list",
                 "string.template meta.embedded",
                 "support.variable",
-                "support.type.property-name.css"
+                "support.type.property-name.css",
+                "storage.type.generic.java",
+                "storage.modifier.import.java"
             ],
             "settings": {
                 "foreground": "#E6E6E6"
@@ -323,9 +325,10 @@
         }, 
         {
             "scope": [
-                "punctuation.separator.scope-resolution.cpp",
-                "punctuation.separator.scope-resolution.function.call.cpp",
-                "punctuation.separator.namespace.access.cpp"
+                "punctuation.separator.scope-resolution",
+                "punctuation.separator.scope-resolution.function.call",
+                "punctuation.separator.namespace.access",
+                "punctuation.separator.dictionary.key-value.json"
             ],
             "settings": {
                 "foreground": "#64E7E7",
@@ -339,18 +342,20 @@
                 "support.function",
                 "support.type.property-name",
                 "support.type.property-name.css",
-                "variable.function.r",
-                "meta.object-literal.key"
+                "meta.object-literal.key",
+                "meta.function-call.generic"
             ],
             "settings": {
-                "foreground": "#468B79"
+                "foreground": "#3D8A76"
             }
         },
         {
             "scope": [
                 "storage",
                 "variable.language",
-                "entity.other.attribute-name.id"
+                "entity.other.attribute-name.id",
+                "entity.other.attribute-name.pseudo-element",
+                "storage.modifier.extends.java"
             ],
             "settings": {
                 "foreground": "#64E7E7",
@@ -362,27 +367,27 @@
                 "entity.name.type",
                 "entity.name.tag",
                 "entity.other.inherited-class",
-                "entity.other.attribute-name.pseudo-element",
                 "entity.other.attribute-name.pseudo-class",
                 "storage.type.cs",
                 "storage.modifier.specifier",
+                "storage.modifier",
                 "support"
             ],
             "settings": {
-                "foreground": "#9A7E51"
+                "foreground": "#4683C3"
             }
         },
         {
             "scope": "variable.parameter",
             "settings": {
-                "foreground": "#707637",
+                "foreground": "#939C54",
                 "fontStyle": "italic"
             }
         },
         {
             "scope": "string.regexp",
             "settings": {
-                "foreground": "#707637"
+                "foreground": "#939C54"
             }
         },    
         {
@@ -413,26 +418,26 @@
         {
             "scope": "markup.underline.link",
             "settings": {
-                "foreground": "#61AAD1"
+                "foreground": "#64E7E7"
             }
         },
         {
             "scope": "string.other.link",
             "settings": {
-                "foreground": "#61AAD1"
+                "foreground": "#4683C3"
             }
         },
         {
             "scope": "markup.bold",
             "settings": {
-                "foreground": "#707637",
+                "foreground": "#939C54",
                 "fontStyle": "bold"
             }
         },
         {
             "scope": "markup.italic",
             "settings": {
-                "foreground": "#707637",
+                "foreground": "#939C54",
                 "fontStyle": "italic"
             }
         },
