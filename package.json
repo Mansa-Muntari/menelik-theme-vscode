@@ -4,7 +4,7 @@
     "publisher": "mansa-muntari",
     "displayName": "Menelik",
     "description": "A subtle, dark Visual Studio Code theme with minimal flair",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "engines": {
         "vscode": "^1.26.0"
     },
