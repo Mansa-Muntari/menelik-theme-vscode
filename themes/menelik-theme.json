@@ -374,7 +374,7 @@
                 "support"
             ],
             "settings": {
-                "foreground": "#4683C3"
+                "foreground": "#DD9AC2"
             }
         },
         {
@@ -424,7 +424,7 @@
         {
             "scope": "string.other.link",
             "settings": {
-                "foreground": "#4683C3"
+                "foreground": "#DD9AC2"
             }
         },
         {
