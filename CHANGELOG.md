@@ -1,4 +1,7 @@
 # Change Log
+## 1.2.4
+- Minor tweaks to editor colours
+
 ## 1.2.3
 - Minor tweaks to token colours
 
