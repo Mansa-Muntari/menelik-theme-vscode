@@ -107,7 +107,7 @@
         "editorRuler.foreground": "#333333",
         "editorBracketMatch.background": "#00000000",
         "editorBracketMatch.border": "#808080",
-        "editor.foldBackground": "#FFFFFF26",
+        "editor.foldBackground": "#24BCD510",
         "editorOverviewRuler.background": "#00000000",
         "editorOverviewRuler.border": "#262626",
         "editorError.foreground": "#F55262",
