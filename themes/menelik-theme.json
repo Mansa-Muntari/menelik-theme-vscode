@@ -267,7 +267,6 @@
                 "punctuation.definition.list",
                 "string.template meta.embedded",
                 "support.variable",
-                "support.type.property-name.css",
                 "storage.type.generic.java",
                 "storage.modifier.import.java"
             ],
@@ -278,6 +277,7 @@
         {
             "scope": [
                 "string.quoted",
+                "string.unquoted",
                 "string.template",
                 "support.constant.property-value.css",
                 "meta.property-value.css"
@@ -328,7 +328,8 @@
                 "punctuation.separator.scope-resolution",
                 "punctuation.separator.scope-resolution.function.call",
                 "punctuation.separator.namespace.access",
-                "punctuation.separator.dictionary.key-value.json"
+                "punctuation.separator.dictionary.key-value.json",
+                "punctuation.separator.key-value.mapping.yaml"
             ],
             "settings": {
                 "foreground": "#64E7E7",
@@ -338,6 +339,7 @@
         {
             "scope": [
                 "entity.name.function",
+                "entity.name.tag.yaml",
                 "entity.other.attribute-name",
                 "support.function",
                 "support.type.property-name",
@@ -418,13 +420,13 @@
         {
             "scope": "markup.underline.link",
             "settings": {
-                "foreground": "#64E7E7"
+                "foreground": "#DD9AC2"
             }
         },
         {
             "scope": "string.other.link",
             "settings": {
-                "foreground": "#DD9AC2"
+                "foreground": "#64E7E7"
             }
         },
         {
@@ -439,6 +441,21 @@
             "settings": {
                 "foreground": "#939C54",
                 "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": [
+                "markup.inline.raw",
+                "punctuation.definition.markdown"
+            ],
+            "settings": {
+                "foreground": "#3D8A76"
+            }
+        },
+        {
+            "scope": "meta.separator.markdown",
+            "settings": {
+                "foreground": "#787878"
             }
         },
         {
