@@ -1,4 +1,8 @@
 # Change Log
+
+## 1.2.5
+- Tweaks to syntax highlighting for markdown
+
 ## 1.2.4
 - Minor tweaks to editor colours
 
