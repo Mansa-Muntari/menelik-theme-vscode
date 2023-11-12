@@ -2,7 +2,7 @@
 
 ## 1.2.6
 - Updated terminal (ANSI) colours, making them consistent with editor token colours
-- 
+
 ## 1.2.5
 - Tweaks to syntax highlighting for markdown
 
