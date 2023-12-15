@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.3.0
+- Updated workbench colours
+- Tweaked some of the syntax colours
+
 ## 1.2.6
 - Updated terminal (ANSI) colours, making them consistent with editor token colours
 
