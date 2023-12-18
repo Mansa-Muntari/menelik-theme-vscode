@@ -1,4 +1,4 @@
-
+![](https://github.com/Mansa-Muntari/menelik-theme-vscode/blob/main/banner.png)
 
 Menelik was designed with simplicity in mind. The theme combines a greyscale-styled base with complementary syntax colours to achieve a simple, clean visual appearance.
 
