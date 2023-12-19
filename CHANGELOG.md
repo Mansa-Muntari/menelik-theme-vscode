@@ -1,5 +1,10 @@
 # Change Log
 
+# 1.4.0
+- Reworked syntax colours, substituting the sharply contrasting cyan and magenta for better colours
+- Tweaked some of the workbench colours, like the debug status bar background colour
+- Embedded the semantic highlighting setting
+
 ## 1.3.0
 - Updated workbench colours
 - Tweaked some of the syntax colours
