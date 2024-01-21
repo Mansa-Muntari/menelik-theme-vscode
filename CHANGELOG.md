@@ -1,8 +1,11 @@
 # Change Log
 
-## 1.4.2
-- Minor tweaks to syntax colours
-- Updated debug status bar colours
+## 1.5.1
+- Tweaked debug status bar colours
+
+## 1.5.0
+- Enabled semantic highlighting by default
+- Significant tweaks to syntax colours for better contrast
 
 ## 1.4.1
 - Minor tweaks to syntax colours
