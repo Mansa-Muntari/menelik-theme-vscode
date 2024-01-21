@@ -14,11 +14,11 @@
 			"pureBlack": "#000000"
 		},
 		"syntax": {
-			"colA": "#FFBF50",
-			"colB": "#AF9B79",
+			"colA": "#FFC45E",
+			"colB": "#EDCCA1",
 			"colC": "#F8FA9E",
-			"colD": "#9ABF15",
-			"colE": "#64704C",
+			"colD": "#ABD418",
+			"colE": "#717E56",
 			"colF": "#85F4AC",
 			"colG": "#207560"
 		},
@@ -60,7 +60,7 @@
 		"listFilterWidget.shadow": "#000000",
 		"statusBar.background": "#0D0D0D",
 		"statusBar.foreground": "#D9D9D9",
-		"statusBar.debuggingBackground": "#333333",
+		"statusBar.debuggingBackground": "#595959",
 		"statusBar.debuggingForeground": "#EEB948",
 		"statusBar.noFolderBackground": "#0D0D0D",
 		"statusBar.noFolderForeground": "#D9D9D9",
@@ -167,7 +167,7 @@
 		"terminal.ansiBlue": "#00AEFF",
 		"terminal.ansiCyan": "#DD9AC2",
 		"terminal.ansiGreen": "#207560",
-		"terminal.ansiYellow": "#758349",
+		"terminal.ansiYellow": "#717E56",
 		"scrollbarSlider.background": "#D9D9D91A",
 		"scrollbarSlider.hoverBackground": "#D9D9D926",
 		"scrollbarSlider.activeBackground": "#D9D9D940",
@@ -250,6 +250,20 @@
 			}
 		},
 		{
+			"name": "Log File Warning",
+			"scope": "log.warning",
+			"settings":{
+				"foreground": "#F8FA9E"
+			}
+		},
+		{
+			"name": "Log File Error",
+			"scope": "log.error",
+			"settings":{
+				"foreground": "#FF6250"
+			}
+		},
+		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -264,8 +278,6 @@
 					"punctuation.separator.pointer-access",
 					"punctuation.separator.key-value",
 					"punctuation.section.embedded",
-					"punctuation.definition.constant",
-					"punctuation.definition.variable",
 					"punctuation.definition.block.sequence.item"
 			],
 			"settings": {
@@ -278,7 +290,7 @@
 			"name": "Constant",
 			"scope": "constant",
 			"settings": {
-					"foreground": "#9ABF15"
+					"foreground": "#ABD418"
 			}
 		},
 		{
@@ -292,7 +304,7 @@
 			"name": "Regex Constant",
 			"scope": "constant.regexp",
 			"settings": {
-					"foreground": "#9ABF15"
+					"foreground": "#ABD418"
 			}    
 		},   
 		{
@@ -300,7 +312,7 @@
 			"scope": "constant.other.color",
 			"settings": {
 					"foreground": "#D9D9D9",
-					"fontStyle": "bold"
+					"fontStyle": "underline"
 			}    
 		},   
 		{
@@ -321,7 +333,7 @@
 			"name": "Type Name (Entity)",
 			"scope": "entity.name.type",
 			"settings": {
-					"foreground": "#F8FA9E",
+					"foreground": "#FFC45E",
 					"fontStyle": "italic"
 			}
 		},
@@ -332,7 +344,7 @@
 				"entity.name.class"
 			],
 			"settings": {
-					"foreground": "#FFBF50",
+					"foreground": "#FFC45E",
 					"fontStyle": ""
 			}
 		},
@@ -340,8 +352,8 @@
 			"name": "Inherited Class (Entity)",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-					"foreground": "#FFBF50",
-					"fontStyle": ""
+					"foreground": "#FFC45E",
+					"fontStyle": "italic"
 			}
 		},
 		{
@@ -362,7 +374,7 @@
 			"name": "Parameter Name (Entity)",
 			"scope": "entity.name.variable.parameter",
 			"settings": {
-				"foreground":"#64704C",
+				"foreground":"#717E56",
 				"fontStyle":"italic"
 			}
 		},
@@ -423,7 +435,7 @@
 			"name": "Markup Bold",
 			"scope": "markup.bold",
 			"settings": {
-					"foreground": "#64704C",
+					"foreground": "#717E56",
 					"fontStyle": "bold"
 			}
 		},
@@ -431,7 +443,7 @@
 			"name": "Markup Italic",
 			"scope": "markup.italic",
 			"settings": {
-					"foreground": "#64704C",
+					"foreground": "#717E56",
 					"fontStyle": "italic"
 			}
 		},
@@ -449,7 +461,7 @@
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
-					"foreground": "#AF9B79"
+					"foreground": "#EDCCA1"
 			}
 		},
 		{
@@ -466,7 +478,7 @@
 			"name": "Markup List Item Identifier",
 			"scope": "punctuation.definition.list.begin.markdown",
 			"settings":{
-					"foreground": "#9ABF15"
+					"foreground": "#ABD418"
 			}
 		},
 		{
@@ -490,7 +502,7 @@
 					"string.other.link.description"
 			],
 			"settings": {
-					"foreground": "#FFBF50"
+					"foreground": "#FFC45E"
 			}
 		},
 		{
@@ -522,31 +534,38 @@
 			}
 		},
 		{
+			"name": "Import Modifier (Storage)",
+			"scope": "storage.modifier.import",
+			"settings": {
+					"foreground": "#D9D9D9"
+			}
+		},
+		{
 			"name": "String",
 			"scope": "string",
 			"settings": {
-					"foreground": "#AF9B79"
+					"foreground": "#EDCCA1"
 			}
 		},
 		{
 			"name": "Regex String",
 			"scope": "string.regexp",
 			"settings": {
-					"foreground":"#64704C"
+					"foreground":"#717E56"
 			}
 		},
 		{
 			"name": "Function (Support)",
 			"scope": "support.function",
 			"settings": {
-					"foreground": "#FFBF50"
+					"foreground": "#FFC45E"
 			}
 		},
 		{
 			"name": "Class (Support)",
 			"scope": "support.class",
 			"settings": {
-					"foreground": "#FFBF50",
+					"foreground": "#FFC45E",
 					"fontStyle": "italic"
 			}
 		},
@@ -569,14 +588,17 @@
 			"name": "Constant (Support)",
 			"scope": "support.constant",
 			"settings": {
-					"foreground": "#9ABF15"
+					"foreground": "#ABD418"
 			}
 		},
 		{
 			"name": "Variable (Support)",
-			"scope": "support.variable",
+			"scope": [
+				"support.function.magic",
+				"support.variable"
+			],
 			"settings": {
-					"foreground": "#9ABF15" 
+					"foreground": "#ABD418" 
 			}
 		},
 		{
@@ -590,33 +612,30 @@
 			"name": "Parameter (Variable)",
 			"scope": "variable.parameter",
 			"settings": {
-					"foreground": "#64704C",
+					"foreground": "#717E56",
 					"fontStyle": "italic"
 			}
 		},
 		{
-			"name": "Function (Variable)",
-			"scope": "variable.function",
-			"settings": {
-					"foreground": "#207560"
-			}
-		},
-		{
-			"name": "Language & Constant Variable",
+			"name": "Language, Constant, etc Variable",
 			"scope": [
 					"variable.language",
-					"variable.parameter.function.language.special"
+					"variable.parameter.function.language.special",
+					"variable.other.readwrite.instance.ruby"
 			],
 			"settings": {
-					"foreground": "#9ABF15",
+					"foreground": "#ABD418",
 					"fontStyle": "italic"
 			}
 		},
 		{
 			"name": "Constant Variable",
-			"scope": "variable.other.constant",
+			"scope": [
+				"variable.other.constant",
+				"variable.other.predefined"
+			],
 			"settings":{
-				"foreground": "#9ABF15"
+				"foreground": "#ABD418"
 			}
 		}
 	]
