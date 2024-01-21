@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.4.2
+- Minor tweaks to syntax colours
+- Updated debug status bar colours
+
 ## 1.4.1
 - Minor tweaks to syntax colours
 
