@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.5.2
+- Minor tweaks to syntax colours
+
 ## 1.5.1
 - Tweaked debug status bar colours
 
