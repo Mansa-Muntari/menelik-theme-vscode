@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.5.3
+- Some changes to syntax colours
+- Other super minor tweaks
+
 ## 1.5.2
 - Minor tweaks to syntax colours
 
