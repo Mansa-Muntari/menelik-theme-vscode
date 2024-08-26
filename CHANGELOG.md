@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.5.5
+- Super minor tweaks
+
 ## 1.5.4
 - Super minor tweaks
 
