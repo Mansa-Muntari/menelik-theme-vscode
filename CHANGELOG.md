@@ -1,7 +1,7 @@
 # Change Log
 
 ## 1.5.7
-- Updated status bar debug colours
+- Super minor tweaks
 
 ## 1.5.6
 - Updated status bar debug colours
