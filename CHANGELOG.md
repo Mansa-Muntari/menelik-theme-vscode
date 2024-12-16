@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.5.8
+- Toned down two of the super saturated colours
+
 ## 1.5.7
 - Super minor tweaks
 
