@@ -14,10 +14,10 @@
 			"pureBlack": "#000000"
 		},
 		"syntax": {
-			"colA": "#F9D806",
+			"colA": "#E0C680",
 			"colB": "#D4EBBD",
 			"colC": "#F8FA9E",
-			"colD": "#B9E519",
+			"colD": "#C1D576",
 			"colE": "#717E56",
 			"colF": "#85F4AC",
 			"colG": "#207560"
@@ -291,7 +291,7 @@
 			"name": "Constant",
 			"scope": "constant",
 			"settings": {
-				"foreground": "#B9E519"
+				"foreground": "#C1D576"
 			}
 		},
 		{
@@ -305,7 +305,7 @@
 			"name": "Regex Constant",
 			"scope": "constant.regexp",
 			"settings": {
-				"foreground": "#B9E519"
+				"foreground": "#C1D576"
 			}
 		},
 		{
@@ -334,7 +334,7 @@
 			"name": "Type Name (Entity)",
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#F9D806",
+				"foreground": "#E0C680",
 				"fontStyle": "italic"
 			}
 		},
@@ -345,7 +345,7 @@
 				"entity.name.class"
 			],
 			"settings": {
-				"foreground": "#F9D806",
+				"foreground": "#E0C680",
 				"fontStyle": ""
 			}
 		},
@@ -353,7 +353,7 @@
 			"name": "Inherited Class (Entity)",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#F9D806",
+				"foreground": "#E0C680",
 				"fontStyle": "italic"
 			}
 		},
@@ -479,7 +479,7 @@
 			"name": "Markup List Item Identifier",
 			"scope": "punctuation.definition.list.begin.markdown",
 			"settings": {
-				"foreground": "#B9E519"
+				"foreground": "#C1D576"
 			}
 		},
 		{
@@ -503,7 +503,7 @@
 				"string.other.link.description"
 			],
 			"settings": {
-				"foreground": "#F9D806"
+				"foreground": "#E0C680"
 			}
 		},
 		{
@@ -559,14 +559,14 @@
 			"name": "Function (Support)",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#F9D806"
+				"foreground": "#E0C680"
 			}
 		},
 		{
 			"name": "Class (Support)",
 			"scope": "support.class",
 			"settings": {
-				"foreground": "#F9D806",
+				"foreground": "#E0C680",
 				"fontStyle": "italic"
 			}
 		},
@@ -589,7 +589,7 @@
 			"name": "Constant (Support)",
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#B9E519"
+				"foreground": "#C1D576"
 			}
 		},
 		{
@@ -599,7 +599,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#B9E519"
+				"foreground": "#C1D576"
 			}
 		},
 		{
@@ -632,7 +632,7 @@
 				"variable.other.readwrite.instance.ruby"
 			],
 			"settings": {
-				"foreground": "#B9E519",
+				"foreground": "#C1D576",
 				"fontStyle": "italic"
 			}
 		},
@@ -643,7 +643,7 @@
 				"variable.other.predefined"
 			],
 			"settings": {
-				"foreground": "#B9E519"
+				"foreground": "#C1D576"
 			}
 		}
 	]
