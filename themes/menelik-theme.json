@@ -17,7 +17,7 @@
 			"colA": "#E0C680",
 			"colB": "#D4EBBD",
 			"colC": "#F8FA9E",
-			"colD": "#C1D576",
+			"colD": "#C6DB7B",
 			"colE": "#717E56",
 			"colF": "#85F4AC",
 			"colG": "#207560"
@@ -291,7 +291,7 @@
 			"name": "Constant",
 			"scope": "constant",
 			"settings": {
-				"foreground": "#C1D576"
+				"foreground": "#C8DE78"
 			}
 		},
 		{
@@ -305,7 +305,7 @@
 			"name": "Regex Constant",
 			"scope": "constant.regexp",
 			"settings": {
-				"foreground": "#C1D576"
+				"foreground": "#C6DB7B"
 			}
 		},
 		{
@@ -479,7 +479,7 @@
 			"name": "Markup List Item Identifier",
 			"scope": "punctuation.definition.list.begin.markdown",
 			"settings": {
-				"foreground": "#C1D576"
+				"foreground": "#C6DB7B"
 			}
 		},
 		{
@@ -589,7 +589,7 @@
 			"name": "Constant (Support)",
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#C1D576"
+				"foreground": "#C6DB7B"
 			}
 		},
 		{
@@ -599,7 +599,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#C1D576"
+				"foreground": "#C6DB7B"
 			}
 		},
 		{
@@ -632,7 +632,7 @@
 				"variable.other.readwrite.instance.ruby"
 			],
 			"settings": {
-				"foreground": "#C1D576",
+				"foreground": "#C6DB7B",
 				"fontStyle": "italic"
 			}
 		},
@@ -643,7 +643,7 @@
 				"variable.other.predefined"
 			],
 			"settings": {
-				"foreground": "#C1D576"
+				"foreground": "#C6DB7B"
 			}
 		}
 	]
