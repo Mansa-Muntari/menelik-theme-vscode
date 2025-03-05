@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.6.0
+- Minor tweaks to enhance contrast
+
 ## 1.5.9
 - Super minor tweaks
 
