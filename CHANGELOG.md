@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.6.2
+- Standardised highlighting of some types/built-in classes/objects
+
 ## 1.6.1
 - Toned down some oversaturation
 

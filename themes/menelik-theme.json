@@ -280,7 +280,8 @@
 				"punctuation.separator.pointer-access",
 				"punctuation.separator.key-value",
 				"punctuation.section.embedded",
-				"punctuation.definition.block.sequence.item"
+				"punctuation.definition.block.sequence.item",
+				"punctuation.definition.template-expression"
 			],
 			"settings": {
 				"foreground": "#85F4AC",
@@ -535,6 +536,17 @@
 			}
 		},
 		{
+			"name": "Type [Some Languages] (Storage)",
+			"scope": [
+				"source.go storage.type",
+				"source.java storage.type"
+			],
+			"settings": {
+				"foreground": "#E2CA89",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Modifier (Storage)",
 			"scope": "storage.modifier",
 			"settings": {
@@ -588,7 +600,7 @@
 			"name": "Type (Support)",
 			"scope": "support.type",
 			"settings": {
-				"foreground": "#F8FA9E",
+				"foreground": "#E2CA89",
 				"fontStyle": "italic"
 			}
 		},
