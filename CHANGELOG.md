@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.6.1
+- Toned down some oversaturation
+
 ## 1.6.0
 - Minor tweaks to enhance contrast
 

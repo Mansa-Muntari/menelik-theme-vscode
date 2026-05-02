@@ -14,11 +14,11 @@
 			"pureBlack": "#000000"
 		},
 		"syntax": {
-			"colA": "#E0C680",
+			"colA": "#E2CA89",
 			"colB": "#DAEEC6",
 			"colC": "#F8FA9E",
 			"colD": "#C6DB7B",
-			"colE": "#717E56",
+			"colE": "#848A75",
 			"colF": "#85F4AC",
 			"colG": "#258870"
 		},
@@ -169,7 +169,7 @@
 		"terminal.ansiBlue": "#00AEFF",
 		"terminal.ansiCyan": "#DD9AC2",
 		"terminal.ansiGreen": "#258870",
-		"terminal.ansiYellow": "#717E56",
+		"terminal.ansiYellow": "#848A75",
 		"scrollbarSlider.background": "#D9D9D91A",
 		"scrollbarSlider.hoverBackground": "#D9D9D926",
 		"scrollbarSlider.activeBackground": "#D9D9D940",
@@ -334,7 +334,7 @@
 			"name": "Type Name (Entity)",
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#E0C680",
+				"foreground": "#E2CA89",
 				"fontStyle": "italic"
 			}
 		},
@@ -345,7 +345,7 @@
 				"entity.name.class"
 			],
 			"settings": {
-				"foreground": "#E0C680",
+				"foreground": "#E2CA89",
 				"fontStyle": ""
 			}
 		},
@@ -353,7 +353,7 @@
 			"name": "Inherited Class (Entity)",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#E0C680",
+				"foreground": "#E2CA89",
 				"fontStyle": "italic"
 			}
 		},
@@ -375,7 +375,7 @@
 			"name": "Parameter Name (Entity)",
 			"scope": "entity.name.variable.parameter",
 			"settings": {
-				"foreground": "#717E56",
+				"foreground": "#848A75",
 				"fontStyle": "italic"
 			}
 		},
@@ -436,7 +436,7 @@
 			"name": "Markup Bold",
 			"scope": "markup.bold",
 			"settings": {
-				"foreground": "#717E56",
+				"foreground": "#848A75",
 				"fontStyle": "bold"
 			}
 		},
@@ -444,8 +444,15 @@
 			"name": "Markup Italic",
 			"scope": "markup.italic",
 			"settings": {
-				"foreground": "#717E56",
+				"foreground": "#848A75",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markup Strikethrough",
+			"scope": "markup.strikethrough",
+			"settings": {
+				"foreground": "#848A75"
 			}
 		},
 		{
@@ -503,7 +510,7 @@
 				"string.other.link.description"
 			],
 			"settings": {
-				"foreground": "#E0C680"
+				"foreground": "#E2CA89"
 			}
 		},
 		{
@@ -552,21 +559,28 @@
 			"name": "Regex String",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#717E56"
+				"foreground": "#848A75"
 			}
 		},
 		{
 			"name": "Function (Support)",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#E0C680"
+				"foreground": "#E2CA89"
+			}
+		},
+		{
+			"name": "R function call",
+			"scope": "support.function.r",
+			"settings": {
+				"foreground": "#F8FA9E"
 			}
 		},
 		{
 			"name": "Class (Support)",
 			"scope": "support.class",
 			"settings": {
-				"foreground": "#E0C680",
+				"foreground": "#E2CA89",
 				"fontStyle": "italic"
 			}
 		},
@@ -620,7 +634,7 @@
 			"name": "Parameter (Variable)",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#717E56",
+				"foreground": "#848A75",
 				"fontStyle": "italic"
 			}
 		},
