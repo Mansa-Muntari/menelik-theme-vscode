@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.7.0
+- Introduced Menelik Savanna: Signature Menelik subtlety with muted colours
+- Improved highlighting for markdown, special punctuation and regex tokens 
+
 ## 1.6.2
 - Standardised highlighting of some types/built-in classes/objects
 
